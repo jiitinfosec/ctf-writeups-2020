@@ -2,6 +2,8 @@
 
 We found a strange service running over TCP (my my, there do seem to be a lot of those as of late!). Connect to the service and see if you can't exploit it somehow.
 
+Author: Bottersnike
+
 ---
 
 On connecting, we were presented with with a bunch of numbers (or variables, perhaps).  
